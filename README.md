@@ -39,11 +39,11 @@ Other versions in Java Spring/NestJs can be found at:
 #### b. Mobile
 
 ## V. Team members
-- ![Trinh Khanh Linh (Lead)](https://github.com/khanhlinh2601)
-- ![Le Thanh Phong](https://github.com/xWyvernPx)
-- ![Bui Dang Khoa](https://github.com/buidangkhoa05)
-- ![Nguyen Manh Hung](https://github.com/jinergenkai)
-- ![Nguyen Gia Tin](https://github.com/YatinCyber)
+- [Trinh Khanh Linh (Lead)](https://github.com/khanhlinh2601)
+- [Le Thanh Phong](https://github.com/xWyvernPx)
+- [Bui Dang Khoa](https://github.com/buidangkhoa05)
+- [Nguyen Manh Hung](https://github.com/jinergenkai)
+- [Nguyen Gia Tin](https://github.com/YatinCyber)
 # Roadmap
 
 - ✅ Add import flow (Basic - Assumption : enough resource/stock for exporting)
