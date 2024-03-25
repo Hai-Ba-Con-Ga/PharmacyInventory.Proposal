@@ -28,6 +28,7 @@ Other versions in Java Spring/NestJs can be found at:
 ### 2. Concept ERD
 ![erd](docs/erd.svg)
 ### 3. Backend Structural Organization
+![be-structural](docs/be-structure.drawio.svg)
 ### 4. Frontend Structural Organization
 
 ## IV. Demonstration
