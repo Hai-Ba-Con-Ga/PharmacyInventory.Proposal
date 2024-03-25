@@ -22,22 +22,21 @@ Other versions in Java Spring/NestJs can be found at:
 ![export_flow](docs/export-flow.svg)
 ### 3. Check goods flow
 ![check-good](docs/check-good.svg)
-## Demonstration
-### Video
+## III. Development
 
-### Screenshots
+### 1. Overal Architecture
+### 2. Concept ERD
+### 3. Backend Structural Organization
+### 4. Frontend Structural Organization
 
+## IV. Demonstration
+### 1. Video
 
-## Development
+### 2. Screenshots
+#### a. Web
+#### b. Mobile
 
-### Overral Architecture
-### Concept ERD
-### Sequence Diagram
-
-
-[Development project trouble shooting](https://github.com/thangchung/go-coffeeshop/wiki#trouble-shooting)
-
-# Team members
+## V. Team members
 - Trinh Khanh Linh (Lead)
 - Le Thanh Phong
 - Bui Dang Khoa
