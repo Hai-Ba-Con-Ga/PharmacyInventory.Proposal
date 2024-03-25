@@ -26,6 +26,7 @@ Other versions in Java Spring/NestJs can be found at:
 
 ### 1. Overal Architecture
 ### 2. Concept ERD
+![erd](docs/erd.svg)
 ### 3. Backend Structural Organization
 ### 4. Frontend Structural Organization
 
