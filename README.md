@@ -25,6 +25,7 @@ Other versions in Java Spring/NestJs can be found at:
 ## III. Development
 
 ### 1. Overal Architecture
+![architecture](docs/PI_Architecture.svg)
 ### 2. Concept ERD
 ![erd](docs/erd.svg)
 ### 3. Backend Structural Organization
