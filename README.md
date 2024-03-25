@@ -51,4 +51,11 @@ Other versions in Java Spring/NestJs can be found at:
 - 🕛 Dashboard
 - Add Export flow (Partialy)
 ## Disclaimer
+This project repository serves as a demonstration and proposal for stakeholders only. It does not disclose any core or internal system functionalities. The contents, including but not limited to technical stack, proposal system flows, development details, and team members, are presented solely for the purpose of showcasing the project's capabilities and potential.
+
+Please note that this project is closed-source, and the code and related materials provided in this repository are not intended for reproduction, redistribution, or use in any other context without explicit permission from the project owners.
+
+Any unauthorized use, reproduction, or distribution of the contents of this repository is strictly prohibited and may result in legal action.
+
+Thank you for your understanding.
 
