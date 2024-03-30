@@ -1,6 +1,6 @@
 # Pharmacy Inventory Management System Proposal
 This is an system built for chains of pharmacy system to manage their inventory which imports from distributors and supplies for their sale stores.
-This system written mainly in **.NET** and deploy automatically using **Docker/GithubAction**
+This system written mainly in **.NET/Spring** and deploy automatically using **Docker/GithubAction**
 Web admin client written in **React** and utilized **React's ecosystem** (**Tanstack Query, Tanstack Table, Mantis**).
 
 
@@ -8,7 +8,7 @@ Other versions in Java Spring/NestJs can be found at:
 
 ## I. Technical stack
 
-- Monolith MVC main service in **.NET 8**
+- Monolith MVC main service in **.NET 8/Spring**
 - Infrastructure
   - **MySQL, Redis**
   - Third party: **Firebase, S3**
